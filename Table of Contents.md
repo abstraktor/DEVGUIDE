@@ -14,7 +14,7 @@ title: DEVGUIDE
   3. [Handling Dates and Times](Handling Dates and Times.html)
   4. [Recurrences](Recurrences.html)
   5. [Time Zones](Time Zones.html)
-  	1. [What are Time Zones](Time Zones.html#what-are-time-zones)
+    1. [What are Time Zones](Time Zones.html#what-are-time-zones)
   6. [Scheduling](Scheduling.html)
     1. [iTip](iTip.html)
     1. [FreeBusy and Availability](FreeBusyAvailability.html)
