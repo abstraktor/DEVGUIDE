@@ -1,3 +1,7 @@
+---
+title: DEVGUIDE
+---
+
 # How to Contribute to this Document
 
 This Wiki is based on [Gollum](https://github.com/gollum/gollum), a [Git](http://git-scm.com/) based Wiki system. The markup language used is [Markdown](http://daringfireball.net/projects/markdown/syntax) in the [Github flavored](https://help.github.com/articles/github-flavored-markdown/) version.
