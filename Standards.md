@@ -1,3 +1,7 @@
+---
+title: DEVGUIDE
+---
+
 # The standards 
 
 Additionally see [Index to Calendaring and Scheduling Standards](https://www.calconnect.org/resources/calendaring-standards)

@@ -1,3 +1,7 @@
+---
+title: DEVGUIDE
+---
+
 # Creating Simple Events
 
 On this page we describe creating a simple non-recurring event. We will

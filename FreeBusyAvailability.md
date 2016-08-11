@@ -1,3 +1,7 @@
+---
+title: DEVGUIDE
+---
+
 # FreeBusy and Availability
 The problem we are genrally trying to address here is the answer to a question posed to  group of people and resources:
 

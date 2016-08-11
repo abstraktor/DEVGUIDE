@@ -1,5 +1,6 @@
-
-<!-- --- title: iCalendar Data Model -->
+---
+title: DEVGUIDE
+---
 
 The iCalendar data format has a well defined data model. iCalendar "objects" encompass a set of iCalendar "components" each of which contains a set of iCalendar "properties" and possibly other sub-components. An iCalendar property consists of a name, a set of optional parameters (specified as "key=value" pairs) and a value.
 

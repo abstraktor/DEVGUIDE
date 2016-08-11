@@ -1,3 +1,7 @@
+---
+title: DEVGUIDE
+---
+
 # ITip - RFC 5546
 
 iTip is an extension to calendaring which describes how to invite attendees to meetings and how those attendees may respond to the requests. Additionally it describes how to publish events.

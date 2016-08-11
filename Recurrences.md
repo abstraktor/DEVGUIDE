@@ -1,5 +1,6 @@
-
-<!-- --- title: iCalendar Recurrences -->
+---
+title: DEVGUIDE
+---
 
 ##What is recurrence?
 

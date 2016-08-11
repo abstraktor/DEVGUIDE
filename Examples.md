@@ -1,3 +1,7 @@
+---
+title: DEVGUIDE
+---
+
 # Examples 
 
 These are examples of building and handling calendar content in a number of

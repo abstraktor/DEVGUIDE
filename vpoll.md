@@ -1,3 +1,7 @@
+---
+title: DEVGUIDE
+---
+
 # A place holder for describing vpoll (draft-york-vpoll...)s
 
 The currently existing approach to agreeing on meeting times using [iTip] and/or [iMip] have some significant failings. There is no useful bargaining or suggestion mechanism in iTip, only the ability for a potential attendee to accept or refuse or to counter with a time of their own choosing.

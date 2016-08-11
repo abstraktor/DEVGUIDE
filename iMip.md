@@ -1,3 +1,7 @@
+---
+title: DEVGUIDE
+---
+
 # IMip - RFC 6047
 
 iMip describe HOW [[iTip]] messages are sent and received via email.

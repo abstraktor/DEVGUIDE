@@ -1,3 +1,7 @@
+---
+title: DEVGUIDE
+---
+
 # Introduction #
 
 Welcome to the Calendaring and Scheduling Developer's Guide wiki.

@@ -1,3 +1,7 @@
+---
+title: DEVGUIDE
+---
+
 # What is UID?
 The `UID` purpose is to define a unique identifier across all the calendar components. 
 It is basically a random generated sequence that will assure the uniqueness of every calendar component.

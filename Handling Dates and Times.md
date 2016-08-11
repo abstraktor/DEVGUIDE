@@ -1,3 +1,7 @@
+---
+title: DEVGUIDE
+---
+
 # Dates importance in calendar components
 
 When speaking about a calendar, we are speaking  about dates and  times.

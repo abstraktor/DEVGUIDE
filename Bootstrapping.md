@@ -1,4 +1,6 @@
-<!-- --- title: Bootstrapping -->
+---
+title: DEVGUIDE
+---
 
 Text about bootstrapping.
 
