@@ -15,6 +15,6 @@ The wiki is available for anyone to access. Updates, additions, and corrections 
 The Table of Contents shows an outline of the various topics that have been identified as key items of interest to the community. Some of these items already have content available, with the others expected to be filled by contributions from the community.
 
 ## Links ##
-[[Table of Contents]]
+[Table of Contents](Table%20of%20Contents.html)
 
-[[How to Contribute]]
+[How to Contribute](How%20to%20Contribute.html)
